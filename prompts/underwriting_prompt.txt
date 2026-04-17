@@ -1,0 +1,4 @@
+Analyze this insurance risk submission and provide:
+- Risk Level (Low / Medium / High)
+- Key risks identified
+- Underwriting Recommendation
