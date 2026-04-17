@@ -1,4 +1,10 @@
-Analyze this insurance risk submission and provide:
+Analyze this insurance risk submission:
+{data}
+
+Based on the preliminary evaluation, the internal assessment classifies the risk as {risk_level} with the following recommendations:
+{recommendations}
+
+Please provide a detailed underwriting analysis that includes:
 - Risk Level (Low / Medium / High)
 - Key risks identified
-- Underwriting Recommendation
+- Underwriting Recommendation with justification
